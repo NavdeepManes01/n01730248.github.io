@@ -1,0 +1,8 @@
+html {
+    font-family: sans-serif;
+
+}
+h2.heading::first-letter {
+    size: 100px;
+    background-color: red;
+}
