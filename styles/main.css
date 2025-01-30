@@ -3,6 +3,6 @@ html {
 
 }
 h2.heading::first-letter {
-    size: 100px;
+    fo: 100px;
     background-color: red;
 }
