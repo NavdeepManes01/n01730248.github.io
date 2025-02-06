@@ -1,8 +1,45 @@
 html {
     font-family: sans-serif;
-
+}
+img {
+    float: left;
+    padding-right: 25px;
+}
+h1 {
+    color: orange;
+    font-style: italic;
+    text-shadow: 2px 2px 1px black;
+    font-size: 40px;
+}
+h2.header {
+    font-size:22px;
+}
+h2.heading {
+    font-size: 25px;
 }
 h2.heading::first-letter {
-    fo: 100px;
-    background-color: red;
+    font-size: 50px;
+}
+p {
+    font-size: 17px;
+}
+h3 {
+    font-size: 21px;
+}
+a {
+    color: orange;
+    font-weight: bold;
+}
+a:hover {
+    color: green;
+}
+li {
+    padding: 3px;
+}
+h4 {
+    font-size: 19px;
+}
+footer, p.footer {
+    font-size:12px;
+    text-align: center;
 }
